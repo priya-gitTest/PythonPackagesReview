@@ -3,9 +3,9 @@ Python Packages Review 2025
 
 ## Comparison Matrix
 
-| Tool | Ease of Use | Dependency Management | Build Speed | Ecosystem | Data Engineering Fit | Relevant in 2025
-|------|-------------|----------------------|-------------|-----------|---------------------|---------------------| 
-| [setuptools](https://setuptools.pypa.io/en/latest/userguide/quickstart.html) | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+| Tool | Ease of Use | Dependency Management | Build Speed | Ecosystem | Data Engineering Fit | Relevant in 2025 | GIT Repo |
+|------|-------------|----------------------|-------------|-----------|---------------------|---------------------|---------------------|
+| [setuptools](https://setuptools.pypa.io/en/latest/userguide/quickstart.html) | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | |https://github.com/pypa/setuptools
 | [Poetry](https://python-poetry.org/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Yes |
 | [Flit](https://flit.pypa.io/en/stable/) | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
 | [Hatch](https://hatch.pypa.io/latest/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | Yes |
