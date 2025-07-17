@@ -7,7 +7,7 @@ Python Packages Review 2025
 |------|-------------|----------------------|-------------|-----------|---------------------|---------------------|---------------------|
 | [setuptools](https://setuptools.pypa.io/en/latest/userguide/quickstart.html) | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | |https://github.com/pypa/setuptools |
 | [Poetry](https://python-poetry.org/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Yes |https://github.com/python-poetry/poetry |
-| [Flit](https://flit.pypa.io/en/stable/) | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+| [Flit](https://flit.pypa.io/en/stable/) | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ ||https://github.com/pypa/flit|
 | [Hatch](https://hatch.pypa.io/latest/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | Yes |
 | [PDM](https://pdm-project.org/en/latest/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
 | [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python) | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |⭐⭐⭐⭐⭐ | Yes |
