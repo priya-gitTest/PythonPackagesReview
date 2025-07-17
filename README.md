@@ -18,5 +18,22 @@ Python Packages Review 2025
 
 For more details look here at your own risks -> https://claude.ai/public/artifacts/6c337914-6ca6-4bff-beb1-e9113e2b3d2a
 
+Using ChatGPT : 
 
-*Last updated: [17/072025] | Contributors: [@priya-gitTest] | License: [MIT]  | Generated with help of Claude*
+| Feature / Tool                     | `setuptools` | `Poetry` | `Flit` | `Hatch` | `PDM` | `Conda` | `UV` | `scikit-build` | `Pixi` | `Docker` |
+|------------------------------------|--------------|----------|--------|---------|--------|---------|------|----------------|--------|----------|
+| **Type**                           | Build tool   | Build + dep mgmt | Build + publish | Build + dep/env mgmt | Build + dep mgmt | Env + dep mgmt | Dep manager | Build tool (C/C++) | Env + runner | Container system |
+| **PEP 517/518 support**            | ✅           | ✅       | ✅     | ✅      | ✅     | ❌               | ✅   | ✅             | ✅     | ❌        |
+| **Dependency management**          | ❌ External  | ✅ Built-in | ❌    | ✅     | ✅     | ✅ via `conda`   | ✅ Ultra-fast | ❌      | ✅     | ✅ via `pip` |
+| **Virtual env mgmt**              | ❌           | ✅       | ❌     | ✅      | ✅     | ✅               | ✅    | ❌              | ✅     | ✅ OS-level |
+| **Build C/C++ extensions**         | ⚠️ Manual     | ⚠️ Basic | ❌     | ✅ via plugin | ✅ via plugin | ✅ via `conda-forge` | ✅ Fast | ✅ Best for native libs | ⚠️ Planned | ✅ Full system access |
+| **Project config file**            | `setup.py` / `setup.cfg` | `pyproject.toml` | `pyproject.toml` | `pyproject.toml` | `pyproject.toml` | `environment.yml` | `pyproject.toml` | `pyproject.toml` + CMake | `pixi.toml` | `Dockerfile` |
+| **Publishing to PyPI**             | ✅ Manual (`twine`) | ✅ Built-in | ✅ Built-in | ✅ Built-in | ✅ Built-in | ❌               | ❌ | ✅ via CMake + PyPI | ❌ | ❌        |
+| **Editable install (`-e`) support**| ✅           | ✅ (recent) | ❌    | ✅      | ✅     | ❌               | ✅    | ✅              | ❌     | ⚠️ Via mounts |
+| **Speed**                          | ⚠️ Standard  | ⚠️ Slower | ✅ Fast | ✅      | ✅     | ⚠️ Medium         | ✅ Ultra-fast | ⚠️ Compile-time | ✅ Fast | ⚠️ Depends on image |
+| **Multi-project/monorepo**         | ❌           | ⚠️ Limited | ❌     | ✅ Excellent | ✅ Basic | ✅              | ✅   | ⚠️ Manual       | ✅ Built-in | ✅ via Docker Compose |
+| **Cross-platform support**         | ✅           | ✅       | ✅     | ✅      | ✅     | ✅               | ✅    | ✅              | ✅     | ✅         |
+| **Binary packaging (wheels)**      | ✅ Yes       | ✅ Yes   | ✅ Yes | ✅ Yes  | ✅ Yes | ❌               | ✅   | ✅              | ❌     | ⚠️ Manual |
+| **Conda ecosystem support**
+
+*Last updated: [17/072025] | Contributors: [@priya-gitTest] | License: [MIT]  | Generated with help of Claude, ChatGPT*
