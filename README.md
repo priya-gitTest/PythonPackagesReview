@@ -8,7 +8,7 @@ Python Packages Review 2025
 | [setuptools](https://setuptools.pypa.io/en/latest/userguide/quickstart.html) | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | |https://github.com/pypa/setuptools |
 | [Poetry](https://python-poetry.org/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Yes |https://github.com/python-poetry/poetry |
 | [Flit](https://flit.pypa.io/en/stable/) | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ ||https://github.com/pypa/flit|
-| [Hatch](https://hatch.pypa.io/latest/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | Yes |
+| [Hatch](https://hatch.pypa.io/latest/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | Yes |https://github.com/pypa/hatch
 | [PDM](https://pdm-project.org/en/latest/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
 | [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python) | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |⭐⭐⭐⭐⭐ | Yes |
 | [UV](https://docs.astral.sh/uv/guides/install-python/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | Yes |
