@@ -57,13 +57,18 @@ Pixi – Declarative Conda + Python environment manager (pixi.toml).
 
 Docker – Container-based packaging for complete system isolation.
 
-## Tool Recommendations by Scenario
-Scenario	Recommended Tool(s)
-Pure Python library	Poetry, Flit, Hatch, setuptools
-Complex/native (C/C++) extensions	scikit-build, setuptools, Hatch
-Data science / ML environments	Conda, Pixi, Docker
-Ultra-fast installs	UV, PDM
-Cross-platform packaging	Poetry, Hatch, Pixi, Docker
-Reproducible, isolated environments	Pixi, Docker, Conda
-Advanced CI/CD packaging	Hatch, Docker, setuptools
+### Tool Recommendations by Scenario
+
+
+| Scenario                            | Recommended Tool(s)                        |
+|-------------------------------------|--------------------------------------------|
+| Pure Python library                 | `Poetry`, `Flit`, `Hatch`, `setuptools`    |
+| Complex/native (C/C++) extensions   | `scikit-build`, `setuptools`, `Hatch`      |
+| Data science / ML environments      | `Conda`, `Pixi`, `Docker`                  |
+| Ultra-fast installs                 | `UV`, `PDM`                                |
+| Cross-platform packaging            | `Poetry`, `Hatch`, `Pixi`, `Docker`        |
+| Reproducible, isolated environments | `Pixi`, `Docker`, `Conda`                  |
+| Advanced CI/CD packaging            | `Hatch`, `Docker`, `setuptools`            |
+
+
 *Last updated: [17/072025] | Contributors: [@priya-gitTest] | License: [MIT]  | Generated with help of Claude, ChatGPT*
