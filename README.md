@@ -5,8 +5,8 @@ Python Packages Review 2025
 
 | Tool | Ease of Use | Dependency Management | Build Speed | Ecosystem | Data Engineering Fit | Relevant in 2025 | GIT Repo |
 |------|-------------|----------------------|-------------|-----------|---------------------|---------------------|---------------------|
-| [setuptools](https://setuptools.pypa.io/en/latest/userguide/quickstart.html) | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | |https://github.com/pypa/setuptools
-| [Poetry](https://python-poetry.org/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Yes |
+| [setuptools](https://setuptools.pypa.io/en/latest/userguide/quickstart.html) | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | |https://github.com/pypa/setuptools |
+| [Poetry](https://python-poetry.org/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Yes |https://github.com/python-poetry/poetry |
 | [Flit](https://flit.pypa.io/en/stable/) | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
 | [Hatch](https://hatch.pypa.io/latest/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | Yes |
 | [PDM](https://pdm-project.org/en/latest/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
