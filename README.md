@@ -34,7 +34,9 @@ Using ChatGPT :
 | **Multi-project/monorepo**         | ❌           | ⚠️ Limited | ❌     | ✅ Excellent | ✅ Basic | ✅              | ✅   | ⚠️ Manual       | ✅ Built-in | ✅ via Docker Compose |
 | **Cross-platform support**         | ✅           | ✅       | ✅     | ✅      | ✅     | ✅               | ✅    | ✅              | ✅     | ✅         |
 | **Binary packaging (wheels)**      | ✅ Yes       | ✅ Yes   | ✅ Yes | ✅ Yes  | ✅ Yes | ❌               | ✅   | ✅              | ❌     | ⚠️ Manual |
-| **Conda ecosystem support**
+| **Conda ecosystem support**        | ⚠️ External | ⚠️ External | ⚠️ External | ⚠️ External | ⚠️ External | ✅ Native        | ⚠️ External | ⚠️ External | ✅ First-class | ⚠️ External |
+| **Containerization**               | ❌           | ❌       | ❌     | ❌      | ❌     | ❌               | ❌    | ❌              | ❌     | ✅ Native |
+| **Use Case Suitability**           | Libraries, legacy | Modern apps/libs | Simple libs | Advanced workflows | Python-first apps | Data science, cross-lang | Fast deps | C/C++ extensions | Reproducible dev | Deployment & isolation |
 
 ## Tool Descriptions (Quick):
 setuptools – The traditional Python packaging tool; flexible and widely supported.
