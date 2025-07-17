@@ -10,7 +10,7 @@ Python Packages Review 2025
 | [Flit](https://flit.pypa.io/en/stable/) | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ ||https://github.com/pypa/flit|
 | [Hatch](https://hatch.pypa.io/latest/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | Yes |https://github.com/pypa/hatch
 | [PDM](https://pdm-project.org/en/latest/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ ||https://github.com/pdm-project/pdm
-| [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python) | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |⭐⭐⭐⭐⭐ | Yes |
+| [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python) | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |⭐⭐⭐⭐⭐ | Yes |https://github.com/conda/conda
 | [UV](https://docs.astral.sh/uv/guides/install-python/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | Yes |
 | [scikit-build](https://pypi.org/project/scikit-build/) | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | [Pixi](https://pixi.sh/latest/) | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | Yes |
