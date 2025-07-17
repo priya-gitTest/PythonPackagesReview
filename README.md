@@ -3,17 +3,17 @@ Python Packages Review 2025
 
 ## Comparison Matrix
 
-| Tool | Ease of Use | Dependency Management | Build Speed | Ecosystem | Data Engineering Fit |
-|------|-------------|----------------------|-------------|-----------|---------------------|
+| Tool | Ease of Use | Dependency Management | Build Speed | Ecosystem | Data Engineering Fit | Relevant in 2025
+|------|-------------|----------------------|-------------|-----------|---------------------|---------------------| 
 | [setuptools](https://setuptools.pypa.io/en/latest/userguide/quickstart.html) | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
-| [Poetry](https://python-poetry.org/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| [Poetry](https://python-poetry.org/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Yes |
 | [Flit](https://flit.pypa.io/en/stable/) | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
-| [Hatch](https://hatch.pypa.io/latest/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| [Hatch](https://hatch.pypa.io/latest/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | Yes |
 | [PDM](https://pdm-project.org/en/latest/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
-| [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python) | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| [UV](https://docs.astral.sh/uv/guides/install-python/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ |
+| [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python) | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Yes |⭐⭐⭐⭐⭐ |
+| [UV](https://docs.astral.sh/uv/guides/install-python/) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | Yes |
 | [scikit-build](https://pypi.org/project/scikit-build/) | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| [Pixi](https://pixi.sh/latest/) | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ |
-| [Docker](https://www.docker.com/blog/how-to-dockerize-your-python-applications/) | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| [Pixi](https://pixi.sh/latest/) | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | Yes |
+| [Docker](https://www.docker.com/blog/how-to-dockerize-your-python-applications/) | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Yes |
 
 *Last updated: [17/072025] | Contributors: [@priya-gitTest] | License: [MIT]  | Generated with help of Claude*
