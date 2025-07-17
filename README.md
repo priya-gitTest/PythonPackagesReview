@@ -16,4 +16,4 @@ Python Packages Review 2025
 | [Pixi](https://pixi.sh/latest/) | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ |
 | [Docker](https://www.docker.com/blog/how-to-dockerize-your-python-applications/) | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
-*Last updated: [17/072025] | Contributors: [@priya-gitTest] | License: [License]*
+*Last updated: [17/072025] | Contributors: [@priya-gitTest] | License: [MIT]  | Generated with help of Claude*
